@@ -1,0 +1,85 @@
+@media (min-width: 992px) {
+    .navbar-nav {
+        margin-left: 15%;
+    }
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    font-size: 40px;
+    font-weight: bold;
+}
+
+h2 {
+    font-size: 24px;
+}
+
+#naslov_forme {
+    width: 55%;
+    margin: 20px auto;
+}
+
+#naslov_forme1 {
+    padding-top: 20px;
+    padding-left: 30px;
+    background-color: rgb(77, 77, 77);
+    color:  white;
+}
+
+#unosClanka {
+    width: 60%;
+    margin: 30px auto;
+}
+
+#unosClanka label {
+    font-weight: bold;
+}
+
+section {
+    margin: 0 auto;
+    margin-top: 10px;
+    margin-bottom: -10px;
+    width: 60%;
+}
+
+.formaUnos {
+    margin-top: -30px;
+}
+
+p {
+    font-size: 16px;
+}
+
+.musica {
+    width: 75%;
+}
+
+.deportes {
+    width: 75%;
+}
+
+a {
+    color: black;
+    text-decoration: none;
+}
+
+.musica_img {
+    height: 200px; 
+    overflow: hidden;
+}
+.musica_img img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover; 
+}
+
+.container-fluid {
+    width: 75%;
+}
+
+#admin {
+    margin: 0 auto;
+}
